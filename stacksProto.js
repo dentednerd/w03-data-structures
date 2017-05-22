@@ -1,4 +1,3 @@
-
 function stacksProto () { 
     const obj = Object.create(stacksProto.prototype);
         obj.stack = {};
